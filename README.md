@@ -1,6 +1,5 @@
 <p align="center">
    </br>
-   <img src="https://img.shields.io/badge/dynamic/json?color=%23e85b46&label=Patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F4507807&style=flat-square"/>
 </p>
 
 > [!IMPORTANT]
@@ -9,8 +8,6 @@
 ## 🌟 Version 6.0.0 Preview
 
 **[Direct download link for Windows (Installer)](https://github.com/slayyedguy/ranmav5x/releases/download/6.0.0-beta.4/video2x-qt6-windows-amd64-installer.exe)**
-
-![6.0.0-beta-screenshot](https://github.com/user-attachments/assets/bd9e0b82-67ee-4b62-a830-a694db6f5de3)
 
 Version 6.0.0 is a complete rewrite of this project in C/C++. It:
 
